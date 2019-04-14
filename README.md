@@ -3,4 +3,3 @@ Evdə w3schools.com-dan HTML və CSS-i bacardığınız qədər oxuyun. HTML-də
 
 https://www.w3schools.com/html/default.asp
 
-Sabaha qədər. Uğurlar.
